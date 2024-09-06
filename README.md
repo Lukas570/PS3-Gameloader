@@ -13,4 +13,7 @@ A simple PS3-Game Download Manager.
 
 # Disclaimer:
 This program just downloads the Game-Packages from the official Sony-Servers. You can NOT simply install it on your ps3, without providing the correct .rap file. You need to obtain those license files on your own since it is not allowed to link them here. 
+
+All credits to psndl.net and Archive.org for providing the database file ;)
+
 Use At Your Own Risk!
